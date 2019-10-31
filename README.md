@@ -2,7 +2,7 @@
 
 Read me file template.
 
-## To add new files please use command below. The templates list will be displayed.
+## Examples
 
 ```sh
 nexss file add myfile.php
